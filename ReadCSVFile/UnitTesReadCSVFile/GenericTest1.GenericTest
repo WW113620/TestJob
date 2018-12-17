@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GenericTest name="GenericTest1" storage="g:\testjob\readcsvfile\unittesreadcsvfile\generictest1.generictest" id="3727a68c-3a3c-41ef-a48b-e770fd3f74d7" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <DeploymentItems>
+    <DeploymentItem filename="UnitTesReadCSVFile\bin\Debug\ReadCSVFile.exe" />
+    <DeploymentItem filename="ReadCSVFile\bin\Debug\ReadCSVFile.exe" />
+  </DeploymentItems>
+  <Command filename="G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.exe" workingDirectory="%TestOutputDirectory%" />
+  <SummaryXmlFile path="%TestOutputDirectory%\&lt;在此输入摘要文件名&gt;" />
+</GenericTest>

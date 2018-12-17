@@ -1,0 +1,4 @@
+G:\TestJob\ReadCSVFile\Application.Common\bin\Debug\Application.Common.dll
+G:\TestJob\ReadCSVFile\Application.Common\bin\Debug\Application.Common.pdb
+G:\TestJob\ReadCSVFile\Application.Common\obj\Debug\Application.Common.dll
+G:\TestJob\ReadCSVFile\Application.Common\obj\Debug\Application.Common.pdb

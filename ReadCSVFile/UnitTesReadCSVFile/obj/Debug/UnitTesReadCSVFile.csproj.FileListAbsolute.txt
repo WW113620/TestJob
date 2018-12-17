@@ -1,0 +1,11 @@
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\GenericTest1.GenericTest
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\UnitTesReadCSVFile.dll
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\UnitTesReadCSVFile.pdb
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\ReadCSVFile.exe
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\Application.Common.dll
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\ReadCSVFile.pdb
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\Application.Common.pdb
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\obj\Debug\UnitTesReadCSVFile.csprojResolveAssemblyReference.cache
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\obj\Debug\UnitTesReadCSVFile.dll
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\obj\Debug\UnitTesReadCSVFile.pdb
+G:\TestJob\ReadCSVFile\UnitTesReadCSVFile\bin\Debug\UnitTesReadCSVFile.dll.config

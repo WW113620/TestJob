@@ -1,0 +1,14 @@
+G:\TestJob\ReadCSVFile\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.exe.config
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.exe.config
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.exe
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.pdb
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\Application.Common.dll
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\Application.Common.pdb
+G:\TestJob\ReadCSVFile\ReadCSVFile\obj\Debug\ReadCSVFile.csprojResolveAssemblyReference.cache
+G:\TestJob\ReadCSVFile\ReadCSVFile\obj\Debug\ReadCSVFile.exe
+G:\TestJob\ReadCSVFile\ReadCSVFile\obj\Debug\ReadCSVFile.pdb
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\Castle.Core.dll
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\Ploeh.AutoFixture.dll
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\UnitTestGenerator.dll
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\Castle.Core.xml
+G:\TestJob\ReadCSVFile\ReadCSVFile\bin\Debug\Ploeh.AutoFixture.xml
